@@ -1,0 +1,13 @@
+> C:\ProgramData\MATLAB\SupportPackages\R2025b\3P.instrset\mingw_w64.instrset\bin\g++.exe --version
+exit status 0
+g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
+> C:\ProgramData\MATLAB\SupportPackages\R2025b\3P.instrset\mingw_w64.instrset\bin\g++.exe -O3 -std=c++17 -march=native -pthread -static -o Z:\PERSONAL\Hope_TMH\ELOSA\refactored\bin\elosa.exe Z:\PERSONAL\Hope_TMH\ELOSA\refactored\src\elosa.cpp
+exit status 0
+
+
