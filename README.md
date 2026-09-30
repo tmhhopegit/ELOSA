@@ -23,7 +23,6 @@ The fastest known methods for this problem are the LCM family (Uno et al., 2004)
 |`matlab/`|Runs the program from MATLAB, reads its output, and holds the analysis functions (see below).|
 |`benchmark/`|`elosa\_benchmark.m` times the new program against the original `FindRecursive` on your own data. It includes a copy of the original `ExhaustiveRegionFinder` with only its class name fixed.|
 |`tests/`|`ElosaTest.m` (MATLAB) and the Python tests and benchmarks used during development.|
-|`archive/`|Original files that weren't ported (see `archive/README.md`).|
 |`CMakeLists.txt`|Optional CMake build.|
 
 ## Building
